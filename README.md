@@ -23,6 +23,8 @@ This project is a portfolio website showcasing the contemporary architectural wo
 1. Clone or download this repository.
 2. Make sure all files are in the same directory:
    - `homePage.html`
+   - `homePage.css`
+   - `homePage.js`
    - `IMAGES/` folder (contains all images)
 3. Open `homePage.html` in your browser to view the website.
 
