@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Preview
 
-▶️ [Click to watch the demo video](./IMAGES/your-video-name.mp4)
+▶️ [Click to watch the demo video](./IMAGES/Ekran Kaydı 2025-08-02 161645.mp4)
 ---
 
 © 2025 Defne Öğünç | All Rights Reserved.
