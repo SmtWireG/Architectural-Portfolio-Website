@@ -34,7 +34,7 @@ All images (including favicon and logo) are located in the `IMAGES` folder. Make
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Prewiev
+## Preview
 
 ![Portfolio Demo](demo.gif)
 ---
