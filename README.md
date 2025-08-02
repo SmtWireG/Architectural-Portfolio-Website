@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Preview
 
-![Portfolio Demo](demo.gif)
+▶️ [Click to watch the demo video](./IMAGES/your-video-name.mp4)
 ---
 
 © 2025 Defne Öğünç | All Rights Reserved.
