@@ -39,4 +39,3 @@ This project is licensed under the [MIT License](LICENSE).
 ![Demo GIF](./IMAGES/gif.gif)
 ---
 
-© 2025 Defne Öğünç | All Rights Reserved.
