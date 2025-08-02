@@ -34,6 +34,9 @@ All images (including favicon and logo) are located in the `IMAGES` folder. Make
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Prewiev
+
+![Portfolio Demo](demo.gif)
 ---
 
 © 2025 Defne Öğünç | All Rights Reserved.
